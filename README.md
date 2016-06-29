@@ -1,2 +1,3 @@
-# test-project
-Test Verstion
+# 概要
+
+IntelliJ IDEAとGitHubの連携
